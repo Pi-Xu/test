@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{people.html}, notime
+# jemdoc: menu{MENU}{people.html}, nofooter
 = People
 
 There are Currently 3 people in the lab:

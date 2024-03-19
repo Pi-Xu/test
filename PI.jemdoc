@@ -1,4 +1,4 @@
-# jemdoc: menu{MENU}{PI.html}, notime
+# jemdoc: menu{MENU}{PI.html}, nofooter
 = About
 
 {{<center>}}
