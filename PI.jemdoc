@@ -1,1 +1,38 @@
-# jemdoc: menu{MENU}{PI.html}, nofooter
+# jemdoc: menu{MENU}{PI.html}, notime
+= About
+
+{{<center>}}
+
+~~~
+{}{img_left}{photos/citation.png}{alt text}{245px}{326px}
+[PI.html Zhou Fan], Ph.D. \n 
+Associate Professor \n
+[https://ssm.sufe.edu.cn/13/8a/c714a201610/page.htm School of Statistics and Management] \n
+[https://www.shufe.edu.cn/ Shanghai University of Finance and Economics] \n
+\n
+Email: zhoufan@mail.shufe.edu.cn \n
+\[[https://scholar.google.com/citations?user=4QJkjl0AAAAJ&hl=en Google Scholar]\] \n
+~~~
+
+{{</center>}}
+
+
+~~~
+{Research Interest}
+- Deep Learning
+- Reinforcement Learning
+- Graph Networks
+- Causal Inference
+~~~
+
+~~~
+{Education}
+- 2015-2019  University of North Carolina at Chapel Hill, Ph.D. in Biostatistics
+~~~
+
+~~~
+{Work Experience}
+- 2021-Present  Shanghai University of Finance and Economics, Associate Professor, School of Statistics and Management
+- 2019-2021  Shanghai University of Finance and Economics, Assistant Professor, School of Statistics and Management
+~~~
+

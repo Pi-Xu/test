@@ -1,6 +1,16 @@
 # jemdoc: menu{MENU}{people.html}, notime
 = People
 
+There are Currently 3 people in the lab:
+
+{{
+    <li> 1 </li>
+}}
+
+{{
+    <li> 1 </li>
+}}
+
 {{
     <li> 1 </li>
 }}

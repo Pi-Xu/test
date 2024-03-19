@@ -1,11 +1,4 @@
-# jemdoc: menu{MENU}{publication.html}, nofooter
+# jemdoc: menu{MENU}{publication.html}, notime
 = Publication
 
-I just want to write
-
-\(
-    \begin{align}
-    a = b \\
-    c = d
-    \end{align}
-\)
+/TODO/ 
